@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> This is my first web page </title>
+  </head>
+  <body>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t know who needs to hear this, but you can build browser extensions easily with your HTML, CSS and JS knowledge.<br><br>It&#39;s like building websites, but with a manifest.json file and background scripts. <br>Great kind of projects to have on your portfolio</p>&mdash; Captain-EO 👨🏾‍💻 is writing technical articles (@eo_eboh) <a href="https://twitter.com/eo_eboh/status/1677383131392008194?ref_src=twsrc%5Etfw">July 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+  </body>
+</html>
